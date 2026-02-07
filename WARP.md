@@ -27,3 +27,29 @@ Each changelog entry must include:
 - Keep README.md updated with accurate directory structure
 - Update table of contents when adding new sections
 - Ensure all documentation files remain free of contradictions
+
+## Image Guidelines
+
+### Storage
+
+All cocktail images are stored in the `Images/` directory at the repository root.
+
+### Naming Convention
+
+Image files should match their recipe filename with the appropriate extension:
+- Recipe: `Recipes/Modern/bourbon-midnight-flip.md`
+- Image: `Images/bourbon-midnight-flip.png`
+
+### Adding Images to Recipes
+
+Use a relative path from the recipe file to the Images directory:
+
+```markdown
+![Cocktail Name](../../Images/cocktail-name.png)
+```
+
+### Image Sources
+
+- **AI-generated images**: Use ChatGPT, DALL-E, or similar tools to generate cocktail images
+- **Free stock photos**: Pexels (pexels.com) offers free, stable image URLs if AI generation isn't available
+- **Original photos**: Personal photos of prepared cocktails are welcome

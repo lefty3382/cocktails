@@ -20,6 +20,7 @@ This repository serves as a personal collection of cocktail recipes, including c
 cocktails/
 ├── README.md              # This file - project overview and documentation
 ├── WARP.md                # Project rules and guidelines
+├── Images/                # Cocktail images (named to match recipe files)
 ├── Logs/
 │   └── changelog.md       # Record of all changes to the repository
 └── Recipes/

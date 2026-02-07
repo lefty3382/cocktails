@@ -4,6 +4,22 @@ All notable changes to this repository are documented in this file.
 
 ---
 
+## 2026-02-07 00:27 (Local Time)
+
+### Added Image Support
+
+**Description**: Added Images directory and image guidelines for cocktail photos.
+
+**Files Added**:
+- `Images/bourbon-midnight-flip.png` - AI-generated image for Bourbon Midnight Flip
+
+**Files Modified**:
+- `Recipes/Modern/bourbon-midnight-flip.md` - Updated to use local image
+- `WARP.md` - Added Image Guidelines section
+- `README.md` - Updated directory structure to include Images folder
+
+---
+
 ## 2026-02-07 00:17 (Local Time)
 
 ### Added Recipe
