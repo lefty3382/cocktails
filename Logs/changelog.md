@@ -4,6 +4,17 @@ All notable changes to this repository are documented in this file.
 
 ---
 
+## 2026-02-07 00:17 (Local Time)
+
+### Added Recipe
+
+**Description**: Added Bourbon Midnight Flip recipe to Modern category.
+
+**Files Added**:
+- `Recipes/Modern/bourbon-midnight-flip.md` - Bourbon Midnight Flip cocktail recipe
+
+---
+
 ## 2026-02-07 00:11 (Local Time)
 
 ### Initial Project Creation
