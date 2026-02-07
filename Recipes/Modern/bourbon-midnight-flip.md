@@ -1,6 +1,6 @@
 # Bourbon Midnight Flip
 
-![Bourbon Midnight Flip cocktail](../../Images/bourbon-midnight-flip.png)
+<img src="../../Images/bourbon-midnight-flip.png" alt="Bourbon Midnight Flip cocktail" width="400">
 
 **Style:**
 **Glass:** Coupe  

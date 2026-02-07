@@ -4,6 +4,18 @@ All notable changes to this repository are documented in this file.
 
 ---
 
+## 2026-02-07 00:31 (Local Time)
+
+### Added Image Sizing Standards
+
+**Description**: Added 400px width standard for recipe images to prevent oversized display on GitHub.
+
+**Files Modified**:
+- `Recipes/Modern/bourbon-midnight-flip.md` - Updated to use HTML img tag with width constraint
+- `WARP.md` - Added sizing standards to Image Guidelines
+
+---
+
 ## 2026-02-07 00:27 (Local Time)
 
 ### Added Image Support

@@ -42,11 +42,15 @@ Image files should match their recipe filename with the appropriate extension:
 
 ### Adding Images to Recipes
 
-Use a relative path from the recipe file to the Images directory:
+Use HTML img tags with a width constraint for consistent sizing on GitHub:
 
-```markdown
-![Cocktail Name](../../Images/cocktail-name.png)
+```html
+<img src="../../Images/cocktail-name.png" alt="Cocktail Name" width="400">
 ```
+
+**Sizing standards:**
+- **Width**: 400px (maintains readability without dominating the page)
+- **Aspect ratio**: Preserve original proportions (only set width, not height)
 
 ### Image Sources
 
