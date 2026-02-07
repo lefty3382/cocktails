@@ -21,6 +21,7 @@ Each changelog entry must include:
 2. **Measurements**: Use standard bartending measurements (oz, ml, dashes, barspoons)
 3. **Consistency**: Follow the recipe template format for all new recipes
 4. **Attribution**: Credit sources for recipes that are not original creations
+5. **Cocktail List**: When adding a new recipe, update the "Cocktail List" section in README.md with the new entry (both the tree view and the table)
 
 ## Documentation Standards
 

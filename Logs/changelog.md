@@ -4,6 +4,18 @@ All notable changes to this repository are documented in this file.
 
 ---
 
+## 2026-02-07 00:35 (Local Time)
+
+### Added Cocktail List to README
+
+**Description**: Added a complete cocktail list with tree structure and linked table for quick access to recipes.
+
+**Files Modified**:
+- `README.md` - Added Cocktail List section with tree view and table
+- `WARP.md` - Added requirement to update cocktail list when adding new recipes
+
+---
+
 ## 2026-02-07 00:31 (Local Time)
 
 ### Added Image Sizing Standards

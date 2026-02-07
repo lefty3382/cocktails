@@ -5,6 +5,7 @@ A repository for storing cocktail recipes and cocktail information.
 ## Table of Contents
 
 - [Overview](#overview)
+- [Cocktail List](#cocktail-list)
 - [Directory Structure](#directory-structure)
 - [Recipe Format](#recipe-format)
 - [Categories](#categories)
@@ -13,6 +14,28 @@ A repository for storing cocktail recipes and cocktail information.
 ## Overview
 
 This repository serves as a personal collection of cocktail recipes, including classic cocktails, modern creations, and variations. Each recipe includes ingredients, measurements, preparation instructions, and additional notes about the drink's history or serving suggestions.
+
+## Cocktail List
+
+Quick access to all recipes:
+
+```
+Recipes/
+├── Classic/
+│   └── (none yet)
+├── Modern/
+│   └── Bourbon Midnight Flip ─── Recipes/Modern/bourbon-midnight-flip.md
+├── Tiki/
+│   └── (none yet)
+├── Shots/
+│   └── (none yet)
+└── Non-Alcoholic/
+    └── (none yet)
+```
+
+| Category | Cocktail | Link |
+|----------|----------|------|
+| Modern | Bourbon Midnight Flip | [View Recipe](Recipes/Modern/bourbon-midnight-flip.md) |
 
 ## Directory Structure
 
